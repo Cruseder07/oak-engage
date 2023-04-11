@@ -89,3 +89,7 @@ h4 {
     position: fixed;
 }
 
+@media screen and (max-width:650px) {
+    align-items: flex-start;
+    
+}
